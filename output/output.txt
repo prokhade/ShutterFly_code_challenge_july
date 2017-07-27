@@ -1,0 +1,14 @@
+
+customers with respective Simple Lifetime Value
+
+Rank   Customer_ID      SimpleLTV (USD)
+--------------------------------------------------------
+1      96f55c7d8f44     $10400.00
+2      96f55c7d8f42     $7800.00
+3      96f55c7d8f43     $5200.00
+
+Top 1 customers with the highest Simple Lifetime Value
+
+Rank   Customer_ID      SimpleLTV (USD)
+--------------------------------------------------------
+1      96f55c7d8f44     $10400.00
